@@ -2,7 +2,7 @@
 
 Minecraft server settings for kodh
 
-## Paper
+## Paper.io
 
 Scripts to pull paper are under scripts/get-paper.sh
 
