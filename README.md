@@ -1,17 +1,17 @@
 # kodh-mc-server
 
-Minecraft server settings for kodh
+Minecraft server settings for kodh.
 
-## Paper.io
+To run, checkout the repo and run the following commands:
 
-Scripts to pull paper are under scripts/get-paper.sh
+```
+npm install
+npm run update
+```
 
-## Secret rules
+The script will download the latest paper.io and install minecraft to shared folder.
 
-Secret rules are applied during launch.
+To start (or restart) the server, run:
 
-## Launching
-
-To launch, run `npm start`
-
+```bash start.sh```
 
