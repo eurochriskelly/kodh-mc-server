@@ -4,8 +4,8 @@
   "description": "Minecraft server settings for kodh",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "update": "bash scripts/setup.sh"
+    "update": "bash scripts/setup.sh",
+    "report": "bash scripts/reports.sh"
   },
   "keywords": [],
   "author": "",

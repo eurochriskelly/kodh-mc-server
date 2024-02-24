@@ -15,3 +15,6 @@ To start (or restart) the server, run:
 
 ```bash start.sh```
 
+## Reports
+
+To view reports, run `npm run reports`
