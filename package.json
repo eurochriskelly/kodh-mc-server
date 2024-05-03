@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "update": "bash scripts/setup.sh",
-    "report": "bash scripts/reports.sh"
+    "report": "bash scripts/reports.sh",
+    "start": "bash scripts/doStart.sh"
   },
   "keywords": [],
   "author": "",
