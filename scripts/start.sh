@@ -8,6 +8,7 @@ if [ ! -f "$confDir/../Geyser-Spigot.jar" ];then
   echo "Error: geyser missing. Not going to start minecraft if everyone can't join :("
   exit 1
 fi
+cp resources/server.properties minecraft/
 cd minecraft/
 
 java -Xmx3048M -Xms3048M -jar paper.jar nogui
